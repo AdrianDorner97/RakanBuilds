@@ -1,0 +1,102 @@
+body {
+  background-color: grey;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+
+}
+
+.nav-link {
+  font-size: 20px;
+  padding-left: 60%;
+  font-family: "Ubuntu";
+}
+
+.middle-container {
+  background-color: black;
+
+}
+
+.carousel-item {
+  width: 30%;
+}
+
+.bottom-cointainer {
+  padding: 10% 15%;
+  background-color: #66BFBF;
+}
+
+.feature-box {
+  font-family: "Montserrat";
+  text-align: center;
+  padding: 10%
+}
+
+.icon1 {
+  padding-bottom: 5%;
+  width: 15%;
+   height:auto;
+}
+
+.bottom1-container {
+  background-color: #091120;
+}
+
+h2 {
+  color: white;
+}
+
+.build {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.bottom2-container {
+  background-color: #091120;
+}
+.center1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.row1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.bottom3-container {
+  background-color: white;
+}
+
+.bottom4-container {
+  background-color: black;
+  padding: 50px 0px 20px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 1.75rem;
+  padding: 20px 0px;
+}
+
+.a {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+
+  text-decoration: none;
+}
+
+.footer-link {
+  margin: 10px 20px;
+  font-size: 20px;
+}
